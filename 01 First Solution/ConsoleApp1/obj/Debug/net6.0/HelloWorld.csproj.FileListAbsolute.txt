@@ -13,3 +13,18 @@ C:\02 Selenium\01 First Solution\ConsoleApp1\obj\Debug\net6.0\HelloWorld.dll
 C:\02 Selenium\01 First Solution\ConsoleApp1\obj\Debug\net6.0\ref\HelloWorld.dll
 C:\02 Selenium\01 First Solution\ConsoleApp1\obj\Debug\net6.0\HelloWorld.pdb
 C:\02 Selenium\01 First Solution\ConsoleApp1\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\02 C# Practice\01 First Solution\ConsoleApp1\bin\Debug\net6.0\HelloWorld.exe
+C:\02 C# Practice\01 First Solution\ConsoleApp1\bin\Debug\net6.0\HelloWorld.deps.json
+C:\02 C# Practice\01 First Solution\ConsoleApp1\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\02 C# Practice\01 First Solution\ConsoleApp1\bin\Debug\net6.0\HelloWorld.dll
+C:\02 C# Practice\01 First Solution\ConsoleApp1\bin\Debug\net6.0\ref\HelloWorld.dll
+C:\02 C# Practice\01 First Solution\ConsoleApp1\bin\Debug\net6.0\HelloWorld.pdb
+C:\02 C# Practice\01 First Solution\ConsoleApp1\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\02 C# Practice\01 First Solution\ConsoleApp1\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\02 C# Practice\01 First Solution\ConsoleApp1\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\02 C# Practice\01 First Solution\ConsoleApp1\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\02 C# Practice\01 First Solution\ConsoleApp1\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\02 C# Practice\01 First Solution\ConsoleApp1\obj\Debug\net6.0\HelloWorld.dll
+C:\02 C# Practice\01 First Solution\ConsoleApp1\obj\Debug\net6.0\ref\HelloWorld.dll
+C:\02 C# Practice\01 First Solution\ConsoleApp1\obj\Debug\net6.0\HelloWorld.pdb
+C:\02 C# Practice\01 First Solution\ConsoleApp1\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache

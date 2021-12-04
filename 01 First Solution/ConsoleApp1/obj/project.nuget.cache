@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mG3Mms+5bC5kxCH3bieUygV0jRmZOOKn692kIHud6lD3BZ7CMdmR9IjQmnl7m+n86wq2R+GpL/8MJFM+7fz3BA==",
+  "dgSpecHash": "u1q7lZW75xBOZ30RbF2rSEioQ/04D/vaRZMJwU5yq+Dnk++xIyJHIYckL35WaOx7W6b8imS+DnJZcfVxhI82QA==",
   "success": true,
-  "projectFilePath": "C:\\02 Selenium\\01 First Solution\\ConsoleApp1\\HelloWorld.csproj",
+  "projectFilePath": "C:\\02 C# Practice\\01 First Solution\\ConsoleApp1\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

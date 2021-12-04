@@ -1,0 +1,15 @@
+C:\02 C# Practice\01 First Solution\02Loops\bin\Debug\net6.0\02Loops.exe
+C:\02 C# Practice\01 First Solution\02Loops\bin\Debug\net6.0\02Loops.deps.json
+C:\02 C# Practice\01 First Solution\02Loops\bin\Debug\net6.0\02Loops.runtimeconfig.json
+C:\02 C# Practice\01 First Solution\02Loops\bin\Debug\net6.0\02Loops.dll
+C:\02 C# Practice\01 First Solution\02Loops\bin\Debug\net6.0\ref\02Loops.dll
+C:\02 C# Practice\01 First Solution\02Loops\bin\Debug\net6.0\02Loops.pdb
+C:\02 C# Practice\01 First Solution\02Loops\obj\Debug\net6.0\02Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\02 C# Practice\01 First Solution\02Loops\obj\Debug\net6.0\02Loops.AssemblyInfoInputs.cache
+C:\02 C# Practice\01 First Solution\02Loops\obj\Debug\net6.0\02Loops.AssemblyInfo.cs
+C:\02 C# Practice\01 First Solution\02Loops\obj\Debug\net6.0\02Loops.csproj.CoreCompileInputs.cache
+C:\02 C# Practice\01 First Solution\02Loops\obj\Debug\net6.0\02Loops.dll
+C:\02 C# Practice\01 First Solution\02Loops\obj\Debug\net6.0\ref\02Loops.dll
+C:\02 C# Practice\01 First Solution\02Loops\obj\Debug\net6.0\02Loops.pdb
+C:\02 C# Practice\01 First Solution\02Loops\obj\Debug\net6.0\02Loops.genruntimeconfig.cache
+C:\02 C# Practice\01 First Solution\02Loops\obj\Debug\net6.0\02Loops.csproj.AssemblyReference.cache
