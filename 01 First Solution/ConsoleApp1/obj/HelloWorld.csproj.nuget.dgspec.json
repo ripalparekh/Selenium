@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\02 Selenium\\01 First Solution\\ConsoleApp1\\HelloWorld.csproj": {}
+    "C:\\02 C# Practice\\01 First Solution\\ConsoleApp1\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\02 Selenium\\01 First Solution\\ConsoleApp1\\HelloWorld.csproj": {
+    "C:\\02 C# Practice\\01 First Solution\\ConsoleApp1\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\02 Selenium\\01 First Solution\\ConsoleApp1\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\02 C# Practice\\01 First Solution\\ConsoleApp1\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\02 Selenium\\01 First Solution\\ConsoleApp1\\HelloWorld.csproj",
+        "projectPath": "C:\\02 C# Practice\\01 First Solution\\ConsoleApp1\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\ripal\\.nuget\\packages\\",
-        "outputPath": "C:\\02 Selenium\\01 First Solution\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\02 C# Practice\\01 First Solution\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ripal\\AppData\\Roaming\\NuGet\\NuGet.Config",
